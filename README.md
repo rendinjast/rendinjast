@@ -40,7 +40,7 @@ I'm `Erfan Khadivar` a 20 years old self-taught software developer who does his 
 
 <div align="center">
   
-  ###### Frameworks & Technologies:
+  ###### SKILLS & TECHNOLOGIES:
   
 </div>
 
